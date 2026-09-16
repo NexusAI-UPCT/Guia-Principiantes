@@ -19,7 +19,7 @@ el mundo de la programación e IA.
 
 ### [3. GitHub y Git](./3-GitHub-y-Git)
 - Qué es GitHub
-- Instalación de Git, Python y VS
+- Instalación de Git, Python y VS Code
 - Primeros comandos
 - Tu primer repositorio
 - Colaboración en GitHub
