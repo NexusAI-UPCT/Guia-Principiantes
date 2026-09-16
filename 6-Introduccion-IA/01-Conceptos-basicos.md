@@ -30,18 +30,18 @@ dentro de otro:
 
 ```
 ┌─────────────────────────────────────┐
-│  Inteligencia Artificial (IA)        │
-│  El campo más amplio                 │
-│                                       │
+│  Inteligencia Artificial (IA)       │
+│  El campo más amplio                │
+│                                     │
 │   ┌───────────────────────────┐     │
-│   │  Machine Learning (ML)     │     │
-│   │  Máquinas que aprenden      │     │
-│   │  de datos                  │     │
-│   │                             │     │
+│   │  Machine Learning (ML)    │     │
+│   │  Máquinas que aprenden    │     │
+│   │  de datos                 │     │
+│   │                           │     │
 │   │   ┌─────────────────┐     │     │
-│   │   │  Deep Learning   │     │     │
-│   │   │  ML con redes    │     │     │
-│   │   │  neuronales      │     │     │
+│   │   │  Deep Learning  │     │     │
+│   │   │  ML con redes   │     │     │
+│   │   │  neuronales     │     │     │
 │   │   └─────────────────┘     │     │
 │   └───────────────────────────┘     │
 └─────────────────────────────────────┘
