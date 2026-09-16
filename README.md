@@ -12,7 +12,6 @@ el mundo de la programación e IA.
 - Variables y tipos de datos
 
 ### [2. Python](./2-Python)
-- Instalación de Python
 - Sintaxis básica
 - Funciones
 - Estructuras de datos
@@ -20,7 +19,7 @@ el mundo de la programación e IA.
 
 ### [3. GitHub y Git](./3-GitHub-y-Git)
 - Qué es GitHub
-- Instalación de Git
+- Instalación de Git, Python y VS
 - Primeros comandos
 - Tu primer repositorio
 - Colaboración en GitHub
